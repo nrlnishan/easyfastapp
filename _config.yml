@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Easy Fasting Timer
     description                           : Track your fast duration with simple & easy to use timer.
-    fontawesome_icon_name                 : timer
+    fontawesome_icon_name                 : hourglass-end
     
   - title                                 : Dark Mode
     description                           : Love dark mode? we love it too. You can switch between light & dark mode
@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Custom Fasting Plans
     description                           : You can create your own fasting plans or use the default one.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : notes
 
   - title                                 : Calorie Tracking
     description                           : Track what you eat after / before fasting in the app
