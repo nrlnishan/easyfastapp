@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Custom Fasting Plans
     description                           : You can create your own fasting plans or use the default one.
-    fontawesome_icon_name                 : notes
+    fontawesome_icon_name                 : bolt
 
   - title                                 : Calorie Tracking
     description                           : Track what you eat after / before fasting in the app
