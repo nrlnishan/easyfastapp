@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Gym Diary is a simple & beautiful app for tracking intermittent fasting. You can keep track of fasting, calorie intakes & water consumption, view your progress, create your own custom fasting plans in the app.
+app_description                           : EasyFast is a simple & beautiful app for enhancing your intermittent fasting. You can keep track of fasting with a timer, track calorie & water consumption, keep records of your body weights & goals all from same app.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,41 +35,33 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Easy Fasting Timer
+    description                           : Track your fast duration with simple & easy to use timer.
+    fontawesome_icon_name                 : timer
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Dark Mode
+    description                           : Love dark mode? we love it too. You can switch between light & dark mode
+    fontawesome_icon_name                 : moon
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Progress Graphs
+    description                           : Visualize your fasting activities & body weight changes through graphs
+    fontawesome_icon_name                 : chart-line
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Custom Fasting Plans
+    description                           : You can create your own fasting plans or use the default one.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Calorie Tracking
+    description                           : Track what you eat after / before fasting in the app
+    fontawesome_icon_name                 : fire-alt
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Water Tracking
+    description                           : You can also track your water consumption in the app
+    fontawesome_icon_name                 : glass-water
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Body Weights & Goals
+    description                           : Track changes to your body weights & set goal for that weight.
+    fontawesome_icon_name                 : weight-scale
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
